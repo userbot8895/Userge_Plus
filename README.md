@@ -33,7 +33,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/UsergeTeam/Userge)
 ![License](https://img.shields.io/github/license/UsergeTeam/Userge)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/UsergeTeam/Userge)
-[![Join Channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/userbot8895)
+[![Updates channel](https://img.shields.io/badge/updates%20channel-on%20telegram-red)](https://t.me/pawneeupdates)
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/UsergeTeam/Userge/?ref=repository-badge)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/UsergeTeam/Userge)
 
@@ -115,7 +115,7 @@ async def test_filter(message: Message):
 
 * With Heroku:
   > **NOTE** : your can fill other vars as your need and they are optional. (settings -> reveal config vars)
-  * First click [**this**](https://heroku.com/deploy?template=https://github.com/userbot8895/Userge_plus/tree/beta)
+  * First click [**this**](https://heroku.com/deploy?template=https://github.com/userbot8895/Userge_Plus/tree/beta)
   * Fill `API_ID`, `API_HASH`, `DATABASE_URL` and `LOG_CHANNEL_ID` (**required**)
   * Choose your [**MODE**](https://github.com/UsergeTeam/Userge#userge-modes-)
   * Then fill other **non-required** vars as relevent to your **MODE**
