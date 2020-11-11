@@ -33,8 +33,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/UsergeTeam/Userge)
 ![License](https://img.shields.io/github/license/UsergeTeam/Userge)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/UsergeTeam/Userge)
-[![Plugins Repo!](https://img.shields.io/badge/Plugins%20Repo-!-orange)](https://github.com/UsergeTeam/Userge-Plugins)
-[![Join Channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/theUserge)
+[![Join Channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/userbot8895)
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/UsergeTeam/Userge/?ref=repository-badge)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/UsergeTeam/Userge)
 
@@ -104,7 +103,7 @@ async def test_filter(message: Message):
 * Google Drive [API Keys](https://console.developers.google.com/)
 * MongoDB [Database URL](https://cloud.mongodb.com/)
 
-## UserGe MODES 🕹
+## Userge MODES 🕹
 
 * **USER** mode `(using user account)`
 * **BOT** mode `(using bot account)`
@@ -116,7 +115,7 @@ async def test_filter(message: Message):
 
 * With Heroku:
   > **NOTE** : your can fill other vars as your need and they are optional. (settings -> reveal config vars)
-  * First click [**this**](https://heroku.com/deploy?template=https://github.com/UsergeTeam/Userge/tree/master)
+  * First click [**this**](https://heroku.com/deploy?template=https://github.com/userbot8895/Userge_plus/tree/beta)
   * Fill `API_ID`, `API_HASH`, `DATABASE_URL` and `LOG_CHANNEL_ID` (**required**)
   * Choose your [**MODE**](https://github.com/UsergeTeam/Userge#userge-modes-)
   * Then fill other **non-required** vars as relevent to your **MODE**
@@ -156,7 +155,7 @@ async def test_filter(message: Message):
 
 ### Support & Discussions 👥
 
-> Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
+Head over to the [userbot8895 discussion group](https://t.me/userbot8895) and [update channel](https://t.me/pawneeupdates)
 
 ### Project Credits 💆‍♂️
 
