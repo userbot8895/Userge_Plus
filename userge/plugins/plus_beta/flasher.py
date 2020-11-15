@@ -15,7 +15,10 @@ CHANNEL = userge.getCLogger(__name__)  # channel logger object
 @userge.on_cmd("flash", about="flashes")
 async def flash(message: Message):
 	r = random.randint(1, 10000)
-	text = message.text
+	text = message.input_str.strip().title()
+	if len(text) == 0:
+		await message.edit("`What should I flash?`")
+		return
 	if len(text.split(" ")) > 1:
 		await message.edit("`Cannot flash file!`")
 		return
